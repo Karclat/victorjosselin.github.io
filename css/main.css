@@ -4,6 +4,9 @@
     color: #ffffff;
   }
   /* Ajoutez d'autres styles pour le mode sombre ici */
+  .back {
+      color:#121212
+  }
 }
 
 @media (prefers-color-scheme: light) {
