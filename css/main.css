@@ -1,11 +1,14 @@
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #121212;
+    background-color: #3b3b3b;
     color: #ffffff;
   }
   /* Ajoutez d'autres styles pour le mode sombre ici */
+  .darknav{
+      background-color:#292929
+  }
   .back {
-      background-color:#3b3b3b
+      background-color:#333333
   }
 }
 
