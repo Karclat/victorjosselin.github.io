@@ -1,10 +1,10 @@
-@font-face{ font-family: "banco.ttf";
-    src:
-    local(".\font\banco.ttf")
-}
+@font-face{ font-family: "Banco";
+    src: url(".\font\banco.ttf") format("truetype");
+ }
+
 
 body{
-    font-family: "banco.ttf", banco;
+    font-family: "Banco", sans-serif;
 }
 @media (prefers-color-scheme: dark) {
   body {
