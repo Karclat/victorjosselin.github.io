@@ -3,6 +3,9 @@
     local(".\font\banco.ttf")
 }
 
+body{
+    font-family: "banco.ttf", banco;
+}
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #3b3b3b;
