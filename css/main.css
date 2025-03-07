@@ -1,3 +1,8 @@
+@font-face{ font-family: "banco.ttf";
+    src:
+    local(".\font\banco.ttf")
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #3b3b3b;
